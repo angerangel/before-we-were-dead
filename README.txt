@@ -1,7 +1,7 @@
-Before We Were Dead, Version 1.1, made by Neotron Games
+# Before We Were Dead, Version 1.1, made by Neotron Games
 
 
-Description :
+## Description :
 
 "Before we were Dead" began as a side-project to one of our dream projects called "Limb of Eternity"
 but soon grew into a complete game in its own right.
@@ -24,7 +24,7 @@ Exploration and character development are key ingredients to the game, as you be
 to explore what it means to be one of the Fish in a twisted and wonderous world.
 
 
-Controls :
+## Controls :
 
 When the game starts you get to enter the name of your Fishling and choose which type of fish
 you want to play as. Each has its own abilities, strengths and weaknesses.
