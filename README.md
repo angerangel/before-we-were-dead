@@ -1,7 +1,7 @@
 # Before We Were Dead, Version 1.1, made by Neotron Games
 
 
-## Description :
+## Description 
 
 "Before we were Dead" began as a side-project to one of our dream projects called "Limb of Eternity"
 but soon grew into a complete game in its own right.
@@ -24,7 +24,7 @@ Exploration and character development are key ingredients to the game, as you be
 to explore what it means to be one of the Fish in a twisted and wonderous world.
 
 
-## Controls :
+## Controls 
 
 When the game starts you get to enter the name of your Fishling and choose which type of fish
 you want to play as. Each has its own abilities, strengths and weaknesses.
@@ -63,20 +63,20 @@ All these buttons are also displayed within the game as a reminder.
 ## Building
 The source is the file *Before.prg*. Use the free multiplatoform tool https://www.bennugd.org/ to build it.
 
-## Usage :
+## Usage 
 
 Before We Were Dead is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation; either version 2 of the License, or
 (at your option) any later version. This applies to the source code.
 
-You should have received a copy of the GNU General Public License along with this program. If not, see <http://www.gnu.org/licenses/
+You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/
 
 Graphics and music is licensed under the Creative Commons BY-SA licence as detailed here :
 http://creativecommons.org/licenses/by-sa/3.0/
 
 If you like our games and want to encourage us to continue making free games, we'll gladly accept a donation.
-Any amount is appreciated and it can be done through paypal, to "imerion@gmail.com". Any questions goes to that adress as well.
+Any amount is appreciated and it can be done through paypal, to imerion@gmail.com . Any questions goes to that adress as well.
 
 
 
